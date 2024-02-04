@@ -3,4 +3,4 @@ resource "local_file" "test" {
   content  = "Hello world!"
 }
 
-resource "null_resource" "null" {}
+resource "null_resource" "null1" {}
